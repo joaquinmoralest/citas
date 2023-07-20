@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "firstName": "Joaquin",
+    "lastName": "Morales",
+    "serviceId": 1,
+    "date": "13/08/23",
+    "dateTime": "15:00",
+    "status": "Reservada" 
+  },
+  {
+    "id": 2,
+    "firstName": "Elvis",
+    "lastName": "Presley",
+    "serviceId": 2,
+    "date": "10/09/23",
+    "dateTime": "10:00",
+    "status": "Reservada" 
+  },
+  {
+    "id": 3,
+    "firstName": "Keka",
+    "lastName": "Galindo",
+    "serviceId": 3,
+    "date": "22/08/23",
+    "dateTime": "11:00",
+    "status": "Cancelada" 
+  },
+  {
+    "id": 4,
+    "firstName": "Elon",
+    "lastName": "Musk",
+    "serviceId": 1,
+    "date": "22/08/23",
+    "dateTime": "09:00",
+    "status": "Reservada" 
+  },
+  {
+    "id": 5,
+    "firstName": "Mark",
+    "lastName": "Zuckerberg",
+    "serviceId": 2,
+    "date": "19/08/23",
+    "dateTime": "16:00",
+    "status": "Cancelada" 
+  }
+]
